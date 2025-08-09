@@ -1,7 +1,5002 @@
 REM Made By Kushed3d
-DELAY 1000
+DELAY 400
 GUI SPACE
-DELAY 500
-STRING TikTok
-DELAY 500
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTERDELAY 400
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
 ENTER

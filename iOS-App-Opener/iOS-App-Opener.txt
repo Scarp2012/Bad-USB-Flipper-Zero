@@ -1,7 +1,8 @@
 REM Made By Kushed3d
-DELAY 1000
+DELAY 800
 GUI SPACE
 DELAY 500
 STRING TikTok
-DELAY 500
+Application.exit();
 ENTER
+

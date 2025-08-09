@@ -1,7 +1,1245 @@
 REM Made By Kushed3d
-DELAY 1000
-GUI SPACE
-DELAY 500
-STRING TikTok
-DELAY 500
+STRING app store
 ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app storeSTRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app storeSTRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app storeSTRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app storeSTRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app storeSTRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app storeSTRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app storeSTRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app storeSTRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app storeSTRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app storeSTRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app storeSTRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app storeSTRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app storeSTRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app storeSTRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app storeSTRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app storeSTRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app storeSTRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store
+ENTER
+STRING app store

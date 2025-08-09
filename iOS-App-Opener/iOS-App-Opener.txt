@@ -1,7 +1,2822 @@
 REM Made By Kushed3d
-DELAY 1000
+DELAY 700
 GUI SPACE
-DELAY 500
-STRING TikTok
-DELAY 500
+DELAY 300
+STRING app store
+Application.exit();
 ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+REM Made By Kushed3d
+DELAY 700
+GUI SPACE
+DELAY 300
+STRING app store
+Application.exit();
+ENTER
+cccccc
